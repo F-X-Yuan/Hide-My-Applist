@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61211817571",
+    "project_id": "hamci-aadc9",
+    "storage_bucket": "hamci-aadc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61211817571:android:c560b00d5e281a3cedaa56",
+        "android_client_info": {
+          "package_name": "com.netease.dwrg.aligames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cvUxU8hhB7FqTCjw60dLl9SBnEWfqPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
