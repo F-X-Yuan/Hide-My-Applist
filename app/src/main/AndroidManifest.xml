@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.netease.dwrg.aligames">
 
     <uses-permission
         android:name="android.permission.QUERY_ALL_PACKAGES"
@@ -42,7 +43,7 @@
 
         <provider
             android:name="icu.nullptr.hidemyapplist.service.ServiceProvider"
-            android:authorities="com.tsng.hidemyapplist.ServiceProvider"
+            android:authorities="com.netease.dwrg.aligames.ServiceProvider"
             android:exported="true"
             tools:ignore="ExportedContentProvider" />
 
